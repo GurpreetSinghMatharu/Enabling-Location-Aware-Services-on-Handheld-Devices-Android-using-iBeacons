@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\src\main\java\estimote-sdk-preview.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f1ef6b1d6ba4a1d982cf6bf86314a4f172a8ee">
+        <dex dex="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\build\intermediates\pre-dexed\debug\estimote-sdk-preview-73b4d9a0113b65f6a1a8e88b506b51746047d214.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\build\intermediates\pre-dexed\debug\classes-ebee15b56325fe55e5e5199493fe2c38a5030c06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tarandeep\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-5182d8d16dc516a478c31e4b92edccc0db1f03f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\build\intermediates\pre-dexed\debug\classes-2b0e71630cd98b0a4239fc799d9516ba7bacc018.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Tarandeep\AndroidStudioProjects\Estimote\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-6a3f09cc5fb07777e84f7495eaacbedb0c4e23bd.jar" />
+    </item>
+
+</items>
